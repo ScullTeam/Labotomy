@@ -1,5 +1,5 @@
-# Labotomy Release
-🛠️ Мануал по установке Labotomy # V3.5.0 🛠️
+# Labotomy V3.5.0
+# 🛠️ Мануал по установке Labotomy  V3.5.0 🛠️
 
 Labotomy можно скачать из нашего шопа или с GitHub.
 
