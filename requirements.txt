@@ -5,3 +5,12 @@ fake-useragent
 termcolor
 pyfiglet
 pyTelegramBotAPI
+openpyxl
+deep-translator
+tqdm
+telethon
+asyncio
+opentele
+aiogram==2.6
+phonenumbers
+peewee
